@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CeciChen0121
 - 👀 I’m interested in Mental health, NLP AI Chatbox
 - 🌱 I’m currently learning SQL 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Cultural/Social Psycology research
 - 📫 How to reach me  Cecichen0121@gmail.com
 
 <!---
